@@ -521,6 +521,7 @@ color #ffffff;
 
 .footer-subscribe-form {
     display: flex;
+    gap: 24px;
 }
 
 .footer-subscribe-label {
